@@ -47,3 +47,10 @@ Each Jupyter notebook analyses and models various parts of its own dataset. Thes
 - [As an introvert, how do I connect with co-workers at a new job?](https://workplace.stackexchange.com/a/178443/8234)
     
 - [How do I deal with an intern who's unable to do even simple tasks?](https://workplace.stackexchange.com/a/177865/8234)
+
+### Game Development
+
+I developed and released a few small games on [itch.io](https://barkinggameswoof.itch.io/). This consists of:
+
+- Nonogram and a reimagining of minesweeper, which involved some non-trivial algorithms to randomly generate solvable grids.
+- A few top-down or side-scrolling shooters.
