@@ -44,4 +44,4 @@ Beyond this, [my Stack Overflow profile](https://stackoverflow.com/users/1711796
     
 - [As an introvert, how do I connect with co-workers at a new job?](https://workplace.stackexchange.com/a/178443/8234)
     
-- [How do I deal with an "incompetent" intern?](https://workplace.stackexchange.com/a/177865/8234)
+- [How do I deal with an intern who's unable to do even simple tasks?](https://workplace.stackexchange.com/a/177865/8234)
