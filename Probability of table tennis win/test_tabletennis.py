@@ -3,8 +3,8 @@ import tabletennis
 
 class TestRandomGen(unittest.TestCase):
     def test_50_p_to_21(self):
-        self.assertAlmostEqual(tabletennis.win_probability(0.50, 21),
-                               0.50000000,
+        self.assertAlmostEqual(tabletennis.win_probability(0.5, 21),
+                               0.5,
                                places=8)
 
     def test_100_p_to_21(self):
@@ -37,3 +37,4 @@ class TestRandomGen(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
