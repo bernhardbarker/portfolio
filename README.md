@@ -4,9 +4,11 @@ This repository contains a small sample of miscellaneous data science exercises 
 
 Each Jupyter notebook analyses and models various parts of its own dataset. These mostly use pandas and numpy for data analysis, scikit-learn for modelling, and matplotlib (with some seaborn) for visualisation.
 
+
 ### Stack Overflow
 
 [My Stack Overflow profile](https://stackoverflow.com/users/1711796/bernhard-barker?tab=profile) contains a number of posts I've written about algorithms (mostly in Java, C++ or pseudocode), software engineering, statistics and workplace and interpersonal interactions. A small selection of my posts:
+
 
 #### Algorithms and programming
 
@@ -48,9 +50,18 @@ Each Jupyter notebook analyses and models various parts of its own dataset. Thes
     
 - [How do I deal with an intern who's unable to do even simple tasks?](https://workplace.stackexchange.com/a/177865/8234)
 
+
 ### Game Development
 
 I developed and released a few small games on [itch.io](https://barkinggameswoof.itch.io/). This consists of:
 
 - Nonogram and a reimagining of minesweeper, which involved some non-trivial algorithms to randomly generate solvable grids.
+
 - A few top-down or side-scrolling shooters.
+
+
+### Miscellaneous
+
+- On [HackerRank](https://www.hackerrank.com/profile/BBarker), I received various gold badges and certifications for Python, C++, Java, SQL, statistics and problem solving (algorithms).
+
+- On [PluralSight](https://app.pluralsight.com/profile/bernhard-barker), I received an "expert" score (95th percentile or above) for Python, C++ and Java.
