@@ -49,4 +49,4 @@ jobs:
           pip install -r algorithms/requirements.txt
 
       - name: Run pytest
-        run: pytest --maxfail=1 --disable-warnings -q
+        run: pytest --maxfail=1 --disable-warnings algorithms
