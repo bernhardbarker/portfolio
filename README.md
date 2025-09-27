@@ -5,7 +5,7 @@ This repository contains a small sample of miscellaneous data science exercises 
 Each Jupyter notebook analyses and models various parts of its own dataset. These mostly use pandas and numpy for data analysis, scikit-learn for modelling, and matplotlib (with some seaborn) for visualisation.
 
 
-### Algorithms
+### Algorithms and Software Engineering
 
 The [algorithms](/algorithms) directory contains a small selection of algorithm problems I've solved, alongside unit tests and a CI workflow to run pylint and pytest.
 
