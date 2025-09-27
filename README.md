@@ -5,6 +5,11 @@ This repository contains a small sample of miscellaneous data science exercises 
 Each Jupyter notebook analyses and models various parts of its own dataset. These mostly use pandas and numpy for data analysis, scikit-learn for modelling, and matplotlib (with some seaborn) for visualisation.
 
 
+### Algorithms
+
+The [algorithms](/algorithms) directory contains a small selection of algorithm problems I've solved, alongside unit tests and a CI workflow to run pylint and pytest.
+
+
 ### Stack Overflow
 
 [My Stack Overflow profile](https://stackoverflow.com/users/1711796/bernhard-barker?tab=profile) contains a number of posts I've written about algorithms (mostly in Java, C++ or pseudocode), software engineering, statistics and workplace and interpersonal interactions. A small selection of my posts:
