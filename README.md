@@ -1,9 +1,8 @@
 ### Data Science
 
-This repository contains a small sample of miscellaneous data science exercises I've done in the past.
+The [data_analysis_and_modelling](/data_analysis_and_modelling) directory contains a small sample of miscellaneous data science exercises I've done in the past.
 
-Each Jupyter notebook analyses and models various parts of its own dataset. These mostly use pandas and numpy for data analysis, scikit-learn for modelling, and matplotlib (with some seaborn) for visualisation.
-
+The [generate_ai](/generate_ai) directory contains a small sample of exercises I've done with various generate AI libraries and models.
 
 ### Algorithms and Software Engineering
 
