@@ -1,1 +1,1 @@
-Various small generative AI projects I've done using Watson, OpenAI and Hugging Face.
+Various small generative AI and deep learning projects I've done using Watson, OpenAI, Hugging Face and PyTorch.
