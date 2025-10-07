@@ -2,7 +2,7 @@
 
 The [data_analysis_and_modelling](/data_analysis_and_modelling) directory contains a small sample of miscellaneous data science exercises I've done in the past.
 
-The [generate_ai](/generate_ai) directory contains a small sample of exercises I've done with various generate AI libraries and models.
+The [generative_ai](/generative_ai) directory contains a small sample of exercises I've done with various generate AI libraries and models.
 
 ### Algorithms and Software Engineering
 
