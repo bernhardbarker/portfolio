@@ -1,17 +1,13 @@
-### Data Science
+### Code samples
 
-The [data_analysis_and_modelling](/data_analysis_and_modelling) directory contains a small sample of miscellaneous data science exercises I've done in the past.
+Each of the following directories in this repository contains a small sample of exercises I've done in the corresponding topic. These mostly use Python:
 
-The [generative_ai](/generative_ai) directory contains a small sample of exercises I've done with various generate AI libraries and models.
-
-### Operations Research
-
-The [operations_research](/operations_research) directory contains a small sample of operations research problems I've solved using linear, nonlinear and integer programming.
-
-### Algorithms and Software Engineering
-
-The [algorithms](/algorithms) directory contains a small selection of algorithm problems I've solved, alongside unit tests and a CI workflow to run pylint and pytest.
-
+| Directory | Description |
+| --- | --- |
+| [Data analysis and modelling](/data_analysis_and_modelling) | Datasets analyzed and modelled using pandas, numpy, scikit-learn and matplotlib
+| [Generative AI](/generative_ai) | Generative AI and deep learning projects using various libraries and models
+| [Operations research](/operations_research) | Problems solved using linear, nonlinear and integer programming
+| [Algorithms](/algorithms) | Algorithm problems from programming challenge websites. Also contains [unit tests](/algorithms/tests), along with a [CI workflow](/.github/workflows/CI.yml) to run pylint and pytest
 
 ### Stack Overflow
 
