@@ -4,6 +4,10 @@ The [data_analysis_and_modelling](/data_analysis_and_modelling) directory contai
 
 The [generative_ai](/generative_ai) directory contains a small sample of exercises I've done with various generate AI libraries and models.
 
+### Operations Research
+
+The [operations_research](/operations_research) directory contains a small sample of operations research problems I've solved using linear, nonlinear and integer programming.
+
 ### Algorithms and Software Engineering
 
 The [algorithms](/algorithms) directory contains a small selection of algorithm problems I've solved, alongside unit tests and a CI workflow to run pylint and pytest.
