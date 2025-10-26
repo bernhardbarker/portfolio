@@ -1,4 +1,4 @@
-A sample of operations research tasks I've done using SciPy, with some NumPy and Pandas for vectorized operations.
+A sample of operations research tasks I've done using SciPy, with some NumPy and Pandas for vectorized operations, and Matplotlib for visualization.
 
 | File | Description | Algorithms used |
 | ------------- | ------------- | ------------- |
