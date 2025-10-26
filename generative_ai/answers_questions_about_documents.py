@@ -1,5 +1,5 @@
 """
-A QA Bot that leverages the LangChain and LLM to answer questions about uploaded documents.
+A QA Bot that leverages RAG and LangChain to answer questions about uploaded documents.
 
 This is run through the IBM Skills Network Labs virtual environment.
 
@@ -117,3 +117,4 @@ rag_application = gr.Interface(
 
 # Launch the app
 rag_application.launch(server_name="127.0.0.1", server_port=7860)
+
