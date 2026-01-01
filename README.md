@@ -4,10 +4,10 @@ Each of the following directories in this repository contains a small sample of 
 
 | Directory | Description |
 | --- | --- |
-| [Data analysis and modelling](/data_analysis_and_modelling) | Datasets analyzed and modelled using pandas, numpy, scikit-learn and matplotlib
-| [Generative AI](/generative_ai) | Generative AI and deep learning projects using various libraries and models
-| [Operations research](/operations_research) | Problems solved using linear, nonlinear and integer programming, as well as some greedy heuristics
-| [Algorithms](/algorithms) | Algorithm problems from programming challenge websites. Also contains [unit tests](/algorithms/tests), along with a [CI workflow](/.github/workflows/CI.yml) to run pylint and pytest
+| **[Data Analysis and Modelling](/data_analysis_and_modelling)** | Datasets analyzed and modelled using pandas, numpy, scikit-learn and matplotlib
+| **[Generative AI](/generative_ai)** | Generative AI and deep learning projects using various libraries and models
+| **[Operations Research](/operations_research)** | Problems solved using linear, nonlinear and integer programming, as well as some greedy heuristics
+| **[Algorithms](/algorithms)** | Algorithm problems from programming challenge websites. Also contains [unit tests](/algorithms/tests), along with a [CI workflow](/.github/workflows/CI.yml) to run pylint and pytest
 
 ### Stack Overflow
 
