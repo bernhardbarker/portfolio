@@ -1,5 +1,5 @@
 """
-https://leetcode.com/problems/combination-sum
+https://leetcode.com/problems/combination-sum-ii
 
 40. Combination Sum II (Medium)
 
@@ -47,3 +47,4 @@ def combination_sum(candidates: list[int], target: int) -> list[list[int]]:
                                                                             if c == candidate)])
 
     return sum_to_combinations[target]
+
